@@ -1,0 +1,17 @@
+.mycustcard{
+    width: 450px;
+    max-width: 100%;
+    background-color: #eee;
+}
+
+h2{
+    text-align: center;
+}
+
+:host {
+    height: 85vh;
+    display: block;
+    max-width: 100%;
+    background-color: rgb(197, 178, 35);
+    border:  rgb(197, 178, 35);
+}
